@@ -4,7 +4,7 @@
 		module="trying-spark-dataframes-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20150630173434"
+		publication="20150726173528"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
