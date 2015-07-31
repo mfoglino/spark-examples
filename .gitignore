@@ -1,5 +1,7 @@
 akka-example/target/
 akka-example/target/.idea/
+akka-example/target/project/target/
+akka-example/target/project/project/target/
 trying-spark-dataframes/target/
 trying-spark-dataframes/project/target/
 trying-spark-dataframes/project/project/target/
